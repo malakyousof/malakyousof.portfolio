@@ -40,11 +40,11 @@ can be added, edited, and updated without touching the code.
 
 ## admin
 
-the admin panel lives at `/admin.html` — protected by supabase auth.
+the admin protected by supabase auth.
 only authenticated users can write to the database (RLS enforced).
 
 &nbsp;
 
 ---
 
-*made with 💜 in cairo*
+
